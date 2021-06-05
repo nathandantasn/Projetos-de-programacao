@@ -1,0 +1,20 @@
+#Observações:
+> Mudamos algumas palavras-chaves para ativar as respostas, como por exemplo a data. Para retornar no console a data presente, devemos ativar a resposta através da palavra-chave "hoje".
+
+Exemplo: "que dia é hoje?".
+
+> Para checar algumas palavras-chaves que ativam as respostas, só digitar "interações".
+
+> Explicamos algumas mudanças no e-book informativo, caso queira saber alguns detalhes do que foi alterado.
+
+Qualquer dúvida, deixo à disposição um e-mail para contato:
+nathan.nascimento@anhembi.br
+
+Código desenvolvido por:
+
+Bruno Gallo de Almeida Passos – Ra: 21298637
+Eduardo de Siqueira Nardoni – Ra: 21462477
+Eliel Ribeiro dos Santos de Andrade – Ra: 21424215
+José Carlos de Lima Júnior – Ra: 21436797
+Nathan Dantas Nascimento – Ra: 21460929
+Pedro Henrique O. da Anunciação - Ra: 20668773
